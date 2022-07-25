@@ -1,3 +1,5 @@
+This project was a part of a solo class project for CSCE 312 at Texas A&M
+
 To compile the program:
 
   javac cachesimulator.java 
