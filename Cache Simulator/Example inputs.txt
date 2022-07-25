@@ -1,0 +1,8 @@
+init-ram 0x00 0xFF
+64
+8
+8
+2
+2
+1
+cache-read 0x15
